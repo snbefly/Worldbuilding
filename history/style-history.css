@@ -1,0 +1,22 @@
+body{
+	background-color: rgba(0,0,0,0.0);
+	font-family: 'Comfortaa';
+}
+
+.season{
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 10px;
+	padding-left: 50px;
+	margin: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.age{
+	color: #051014;
+	background-color: #c2a878;
+	padding: 10px;
+	padding-left: 50px;
+	margin: 20px;
+}
