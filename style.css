@@ -237,3 +237,17 @@ a.navbar-style{
 	width: 30%;
 	margin-left: 68%
 }
+
+.faction-header{
+	background-color: #C7D3DD;
+	color: #051014;
+	text-align: center;
+	padding: 1rem;
+}
+
+.faction-body{
+	color: #C7D3DD;
+	text-align: center;
+	padding: 1rem;
+	padding-left: 10%;
+}
